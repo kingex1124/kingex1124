@@ -1,4 +1,4 @@
-## 專業技術
+## Skill
 | 前端 | [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,angular,ts,postman,graphql)](https://skillicons.dev) |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 
