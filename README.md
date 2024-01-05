@@ -1,16 +1,15 @@
-### Hi there 👋
+## 專業技術
+| 前端 | [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,angular,ts,postman,graphql)](https://skillicons.dev) |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!--
-**kingex1124/kingex1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 後端 | [![My Backend Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev) |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-Here are some ideas to get you started:
+| 資料庫 | [![My Frontend Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev) |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 版控 | [![My Frontend Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev) |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+
+| 工具 | [![My Frontend Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev) |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
