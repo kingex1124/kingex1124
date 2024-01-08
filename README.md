@@ -14,7 +14,7 @@
 | 工具 | [![My Frontend Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev) |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## CONTACT
+## Contact
 <a href="https://www.linkedin.com/in/chaoyen-chen45552b1a0" target="_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn">
 </a>
