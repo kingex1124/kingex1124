@@ -15,6 +15,6 @@
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## CONTACT
-<a href="www.linkedin.com/in/chaoyen-chen45552b1a0">
+<a href="https://www.linkedin.com/in/chaoyen-chen45552b1a0">
   <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn">
 </a>
