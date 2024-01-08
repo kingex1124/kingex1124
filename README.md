@@ -21,6 +21,7 @@
 <a href="mailto:kingex1124@gmail.com" target="_blank">
  <img alt="Static Badge" src="https://img.shields.io/badge/kingex1124%40gmail.com-fafafa?style=for-the-badge&logo=Gmail&logoColor=%23EA4335">
 </a>
+<div></div>
 <a href="https://accessible-coral-5ad.notion.site/096c32c5c0b14e5588dc5bfc638e1419?pvs=4" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/Notion%E5%B1%A5%E6%AD%B7%E8%A1%A8-fafafa?style=for-the-badge&logo=Notion&logoColor=%23000000">
 </a>
