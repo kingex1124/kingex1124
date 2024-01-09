@@ -1,4 +1,16 @@
+## About
+做了7年的軟體相關工作經驗，當中負責過開發、維護、需求訪談、系統架構...等。
+當中在金融業待過將近3年的時間，具備一些金融帳務相關知識。
+也在軟體公司累計1年半左右的物流相關商業知識。
+
 ## Skill
+- 前端技術：HTML5、CSS、Bootstrap、JavaScript、jQuery、Angular、TypeScript、ASP.NET Core Blazor
+- 後端技術：C#、.NET MVC、.Net Core 6
+- 視窗技術： WinForm、WPF、MVVM、Prism
+- 資料庫：MSSQL、MySQL、Oracle、SQLite、HANADB、Ado.Net、Entity Framework、Dapper
+- 相關技術： XML、JSON、IIS、UML、Crystal Report、RDLC、GraphQL、Notion
+- 版本控制：Team Foundation Services、Visual Studio Team Services、Git、Github、GitLab
+
 | 前端 | [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,angular,ts,postman,graphql)](https://skillicons.dev) |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 
